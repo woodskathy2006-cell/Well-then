@@ -1,9 +1,11 @@
 //Name is Wellness Check
 package Controllers;
-public static class MainMenu
+import Viewers.*;
+
+public class MainMenu
 {
-    public static Run()
+    public static void Run()
     {
-        Console.writeln("GAYYYYYYY")
+        Console.writeln("GAYYYYYYY");
     }
 }
