@@ -5,6 +5,7 @@ import Controllers.*;
 import Viewers.*;
 
 void main() {
-    Console.writeln("EA Sports: It's in the game");
     MainMenu.Run();
+    //Football, basketball, soccer, vollyball, long-distance, swimming, sprinting,
+    //throwing, jumping
 }
