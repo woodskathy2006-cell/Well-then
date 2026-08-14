@@ -1,0 +1,27 @@
+<html>
+    <head> <h1>Test </h1> </head>
+    <body>
+        <form>
+            <div>
+                <label for="Excercise">Excercise Name</label>
+                <input id="Excercise" name="Excercise" type="text" placeholder="funny" required>
+            </div>
+            <div>
+                <label for="Time">Time</label>
+                <input id="Time" name="Time" type="text" placeholder="4:00" required>
+            </div>
+            <div>
+                <option>
+                    <ul>Basic</ul>
+                    <ul>Monday</ul>
+                    <ul>Tuesday</ul>
+                    <ul>Wensday</ul>
+                    <ul>Thursday</ul>
+                    <ul>Friday</ul>
+                    <ul>Saturday</ul>
+                    <ul>Sunday</ul>
+                </option>
+            </div>
+        </form>
+    </body>
+</html>
